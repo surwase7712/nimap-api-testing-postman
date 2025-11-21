@@ -17,8 +17,8 @@ This project contains Postman API testing collection for Nimap Infotech's machin
 - ✅ Token extraction and storage
 
 ### 2. Customer Management
-- ✅ Add new customer (POST request)
-- ✅ Retrieve customer data (GET request)
+- ✅ Add new customer 
+- ✅ Retrieve customer data
 
 ## 🛠️ Setup Instructions
 
@@ -132,19 +132,6 @@ nimap-api-testing-postman/
 | `invalidUserId` | Invalid user ID for negative testing |
 | `invalidPassword` | Invalid password for negative testing |
 
-## 📸 Screenshots
-
-### Valid Login Test
-![Valid Login](screenshots/valid-login.png)
-
-### Invalid Login Test
-![Invalid Login](screenshots/invalid-login.png)
-
-### Add Customer Test
-![Add Customer](screenshots/add-customer.png)
-
-### Collection Run Results
-![Collection Run](screenshots/collection-run.png)
 
 ## 🎓 Key Learnings
 
@@ -162,17 +149,6 @@ nimap-api-testing-postman/
 - All customer data in tests uses dummy/test data
 - Tests are designed to be repeatable and maintainable
 
-## 🤝 Contact
-
-For any queries regarding this project:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
-
-## 📄 License
 
 This project is created for educational and testing purposes as part of Nimap Infotech's machine test.
 
----
-
-**Note**: Replace actual API endpoints and field names based on the actual application APIs discovered during testing.
